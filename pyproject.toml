@@ -1,0 +1,8 @@
+[project]
+name = "satvickrecipe"
+version = "0.1.0"
+description = "Display satvickrecipe"
+authors = [{ name = "N Shravan Reddy", email = "nshravanreddy6@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
